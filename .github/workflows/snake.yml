@@ -1,0 +1,33 @@
+name: Daily Profile Telemetry & Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/stats/**"
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Render custom SVG telemetry & snake cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: jayashreemondal2005
+        run: |
+          python3 .github/scripts/profile_cards.py --out assets/stats
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats
+          git diff --cached --quiet || (git commit -m "chore(telemetry): auto-refresh profile cards" && git pull --rebase origin main && git push)

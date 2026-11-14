@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="175" viewBox="0 0 880 175" role="img" aria-label="Highlights and credentials">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3EFFE"/>
+      <stop offset="0.5" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <linearGradient id="jmGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0.15" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0.88" cy="0.82" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="880" height="175" rx="18" fill="url(#bgGrad)"/>
+  <rect width="880" height="175" rx="18" fill="url(#orb1)"/>
+  <rect width="880" height="175" rx="18" fill="url(#orb2)"/>
+  <rect x="10" y="10" width="860" height="155" rx="14" fill="#FFFFFF" fill-opacity="0.76" stroke="#C4B5FD" stroke-opacity="0.65" stroke-width="1.2"/>
+  <rect x="28" y="10" width="824" height="3" rx="1.5" fill="url(#jmGrad)"/>
+  <text x="32" y="42" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" text-anchor="start">HIGHLIGHTS  ·  EDUCATION, INTERNSHIP &amp; CREDENTIALS</text>
+  <rect x="36.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="100.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="100.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">EDUCATION</text>
+  <text x="100.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">B.Tech IT</text>
+  <text x="100.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">BCET · 2023–2027</text>
+  <rect x="172.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="236.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="236.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">INTERNSHIP</text>
+  <text x="236.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">AI / ML Intern</text>
+  <text x="236.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">EDU TANTR · 2025</text>
+  <rect x="308.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="372.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="372.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">TRAINING</text>
+  <text x="372.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Java Full Stack</text>
+  <text x="372.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">Wipro TalentNext</text>
+  <rect x="444.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="508.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="508.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">CERTIFIED</text>
+  <text x="508.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">8 Certificates</text>
+  <text x="508.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">OCI · Azure · IBM</text>
+  <rect x="580.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="644.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="644.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">CLOUD &amp; AI</text>
+  <text x="644.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">16+ Badges</text>
+  <text x="644.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">Google Study Jam</text>
+  <rect x="716.0" y="56" width="128.0" height="96" rx="10" fill="#F8FAFC" fill-opacity="0.92" stroke="#DDD6FE" stroke-width="1.2"/>
+  <circle cx="780.0" cy="74" r="5" fill="url(#jmGrad)"/>
+  <text x="780.0" y="96" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4" text-anchor="middle">HACKATHONS</text>
+  <text x="780.0" y="118" fill="#17162B" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">3x Code Jam</text>
+  <text x="780.0" y="136" fill="#6A6B86" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" text-anchor="middle">BCET Code Vision</text>
+</svg>

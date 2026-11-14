@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250" role="img" aria-label="Most used languages">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3EFFE"/>
+      <stop offset="0.5" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <linearGradient id="jmGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0.15" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0.88" cy="0.82" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="430" height="250" rx="18" fill="url(#bgGrad)"/>
+  <rect width="430" height="250" rx="18" fill="url(#orb1)"/>
+  <rect width="430" height="250" rx="18" fill="url(#orb2)"/>
+  <rect x="10" y="10" width="410" height="230" rx="14" fill="#FFFFFF" fill-opacity="0.76" stroke="#C4B5FD" stroke-opacity="0.65" stroke-width="1.2"/>
+  <rect x="28" y="10" width="374" height="3" rx="1.5" fill="url(#jmGrad)"/>
+  <text x="32" y="44" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" text-anchor="start">LANGUAGES  ·  IN MY REPOSITORIES</text>
+  <rect x="32.0" y="62" width="118.0" height="10" rx="3" fill="#7C3AED"/>
+  <rect x="152.0" y="62" width="99.5" height="10" rx="3" fill="#2563EB"/>
+  <rect x="253.5" y="62" width="65.5" height="10" rx="3" fill="#06B6D4"/>
+  <rect x="321.0" y="62" width="24.9" height="10" rx="3" fill="#EC4899"/>
+  <rect x="347.8" y="62" width="24.7" height="10" rx="3" fill="#8B5CF6"/>
+  <rect x="374.6" y="62" width="21.4" height="10" rx="3" fill="#3B82F6"/>
+  <rect x="32" y="100" width="11" height="11" rx="3" fill="#7C3AED"/>
+  <text x="52" y="110" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">TypeScript</text>
+  <text x="202" y="110" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">32.8%</text>
+  <rect x="222" y="100" width="11" height="11" rx="3" fill="#2563EB"/>
+  <text x="242" y="110" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">HTML</text>
+  <text x="392" y="110" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">27.7%</text>
+  <rect x="32" y="140" width="11" height="11" rx="3" fill="#06B6D4"/>
+  <text x="52" y="150" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">JavaScript</text>
+  <text x="202" y="150" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">18.4%</text>
+  <rect x="222" y="140" width="11" height="11" rx="3" fill="#EC4899"/>
+  <text x="242" y="150" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">SCSS</text>
+  <text x="392" y="150" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">7.3%</text>
+  <rect x="32" y="180" width="11" height="11" rx="3" fill="#8B5CF6"/>
+  <text x="52" y="190" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">CSS</text>
+  <text x="202" y="190" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">7.3%</text>
+  <rect x="222" y="180" width="11" height="11" rx="3" fill="#3B82F6"/>
+  <text x="242" y="190" fill="#17162B" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600">Python</text>
+  <text x="392" y="190" fill="#7C3AED" font-family="'Sora','Segoe UI',-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" font-weight="700" text-anchor="end">6.4%</text>
+</svg>

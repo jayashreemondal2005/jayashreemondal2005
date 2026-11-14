@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250" role="img" aria-label="Quote of the day">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3EFFE"/>
+      <stop offset="0.5" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <linearGradient id="jmGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="0.15" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0.88" cy="0.82" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="430" height="250" rx="18" fill="url(#bgGrad)"/>
+  <rect width="430" height="250" rx="18" fill="url(#orb1)"/>
+  <rect width="430" height="250" rx="18" fill="url(#orb2)"/>
+  <rect x="10" y="10" width="410" height="230" rx="14" fill="#FFFFFF" fill-opacity="0.76" stroke="#C4B5FD" stroke-opacity="0.65" stroke-width="1.2"/>
+  <rect x="28" y="10" width="374" height="3" rx="1.5" fill="url(#jmGrad)"/>
+  <text x="32" y="44" fill="#7C3AED" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" text-anchor="start">DEVELOPER QUOTE OF THE DAY</text>
+  <text x="400" y="94" fill="url(#jmGrad)" fill-opacity="0.22" font-family="'Playfair Display',Georgia,'Times New Roman',serif" font-size="92" text-anchor="end">&#8221;</text>
+  <text x="32" y="102" fill="#17162B" font-family="'Playfair Display',Georgia,'Times New Roman',serif" font-style="italic" font-size="18">Make it work, make it right, make it</text>
+  <text x="32" y="129" fill="#17162B" font-family="'Playfair Display',Georgia,'Times New Roman',serif" font-style="italic" font-size="18">fast.</text>
+  <line x1="32" y1="166" x2="58" y2="166" stroke="url(#jmGrad)" stroke-width="2"/>
+  <text x="66" y="170" fill="#2563EB" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.8" text-anchor="start">KENT BECK</text>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "board": ["", "", "", "", "X", "", "", "", "O"],
+  "message": "Your turn — click any open square to play violet X against the bot.",
+  "stats": {
+    "games": 6,
+    "human": 3,
+    "bot": 2,
+    "draw": 1
+  },
+  "recent": [
+    "jayashreemondal2005"
+  ]
+}
