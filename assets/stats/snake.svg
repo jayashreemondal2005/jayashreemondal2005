@@ -392,6 +392,7 @@
   <rect x="784.5" y="148" width="11" height="11" rx="2.5" fill="#E9ECF8"/>
   <rect x="798.5" y="64" width="11" height="11" rx="2.5" fill="#E9ECF8"/>
   <rect x="798.5" y="78" width="11" height="11" rx="2.5" fill="#E9ECF8"/>
+  <rect x="798.5" y="92" width="11" height="11" rx="2.5" fill="#E9ECF8"/>
   <path id="snakeTrack" d="M 76.0,83.5 L 244.0,83.5 L 244.0,139.5 L 440.0,139.5 L 440.0,97.5 L 622.0,97.5 L 622.0,153.5 L 804.0,153.5 L 804.0,69.5 L 524.0,69.5 L 524.0,125.5 L 300.0,125.5 L 300.0,83.5 L 76.0,83.5" fill="none" stroke="none"/>
   <circle r="6.5" fill="#7C3AED" opacity="1.00"><animateMotion dur="14s" begin="-0.00s" repeatCount="indefinite" rotate="auto"><mpath href="#snakeTrack"/></animateMotion></circle>
   <circle r="5.8" fill="#6D28D9" opacity="0.92"><animateMotion dur="14s" begin="-0.16s" repeatCount="indefinite" rotate="auto"><mpath href="#snakeTrack"/></animateMotion></circle>
